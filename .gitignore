@@ -1,0 +1,15 @@
+*
+.htpasswd
+
+!*.example
+!.gitignore
+!*.md
+!docker-compose.yml
+!LICENSE
+!*.sh
+!start
+!restart
+
+!shared/
+!secrets/
+!apps/
